@@ -9,11 +9,16 @@ My name is **Alvaro Menduina-Fernandez** and I'm an Astrophysics DPhil student a
 
 <img width="40%" align="right" alt="Profile" src="https://github.com/AlvaroMenduina/AlvaroMenduina/blob/main/GitHubProfile.JPG"/>
 
-## Bio
+## Quick Bio
 
 I'm from Madrid, Spain and I'm interested in all things _Space_. After completing my BSc in Aerospace Engineering, I moved to the Netherlands for my MSc in Aerospace Engineering (Space Flight track) at TU Delft. I did an internship and my MSc Thesis at OHB Munich, developing software for the design of space optical instruments with freeform optics.
 
-In 2017, I moved from satellites in _Space_ looking down on Earth, to telescopes on Earth looking into _Space_ when I began my DPhil in Astrophysics at Oxford 🇬🇧. I'm now on my final year
+In 2017, I moved from satellites in _Space_ looking down on Earth, to telescopes on Earth looking into _Space_ when I began my DPhil in Astrophysics at Oxford 🇬🇧. Now on my final year, I've spent the last 3+ years researching how to calibrate **Non-Common Path Aberrations** (NCPA) for instruments like HARMONI.
+
+## What do I use GitHub for?
+
+What keeps me busy
+
 
 [![Alvaro's github stats](https://github-readme-stats.vercel.app/api?username=AlvaroMenduina&theme=great-gatsby)](https://github.com/AlvaroMenduina/github-readme-stats)
 
