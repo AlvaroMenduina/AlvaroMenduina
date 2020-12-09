@@ -17,12 +17,35 @@ In 2017, I moved from satellites in _Space_ looking down on Earth, to telescopes
 
 ## What do I use GitHub for?
 
-What keeps me busy
+There are many aspects of my DPhil Thesis that involve coding, so I spend most of my times pushing commits to GitHub. What keeps me busy?
+
+* **Machine Learning**: a big part of my research focuses on developing Machine Learning techniques for the calibration of NCPA. Find more about it in my [Repo](https://github.com/AlvaroMenduina/NCPA).
+* **End-to-End Model Simulations**: Within the HARMONI project, I'm in charge of developing a Python package to analyse the performance of End-to-End Models of the HARMONI instrument. These are optical models of the complete instrument, which I use to evaluate the performance and prove that HARMONI will work. You can find more about this in my [Repo](https://github.com/AlvaroMenduina/E2E).
+* **Data Reduction**: I'm currently running an experiment with an optical bench that generates lots of exciting data. \[**COMING SOON**\] 
 
 
-[![Alvaro's github stats](https://github-readme-stats.vercel.app/api?username=AlvaroMenduina&theme=great-gatsby)](https://github.com/AlvaroMenduina/github-readme-stats)
+<p>
 
+  <!-- Your languages and tools. Be careful with the alignment.
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  
+   <a href="">
+    <img width="50%" align="right" alt="Alvaro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlvaroMenduina&theme=prussian&show_icons=true" />
+  </a>
+  
+  
+</p>
 
+## How to get in touch
+If you want to know more about me and my research:
+
+*
+* **My PhD project and research**: \[**COMING SOON**\] 
 
 <!--
 **AlvaroMenduina/AlvaroMenduina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +60,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+My Personal Website
+
+Github explaining the DPhil project: https://github.com/KristinaUlicna/CellComp
 -->
