@@ -29,10 +29,10 @@ There are many aspects of my DPhil Thesis that involve coding, so I spend most o
   <!-- Your languages and tools. Be careful with the alignment.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   
    <a href="">
     <img width="50%" align="right" alt="Alvaro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlvaroMenduina&theme=prussian&show_icons=true" />
