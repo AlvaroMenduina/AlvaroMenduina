@@ -41,11 +41,12 @@ There are many aspects of my DPhil Thesis that involve coding, so I spend most o
   
 </p>
 
-## How to get in touch
+## How to learn more and get in touch
 If you want to know more about me and my research:
 
+* Have a look at [my CV](CV_AlvaroMenduina2020.pdf) 📄
 * Feel free to contact me by Email at: alvaro.menduina@gmail.com
-* Check out my [LinkedIn profile](www.linkedin.com/in/alvaro-menduina-fernandez-047715107)
+* Check out my [LinkedIn profile](www.linkedin.com/in/alvaro-menduina-fernandez)
 * **My PhD project and research**: \[**COMING SOON**\] 
 
 <!--
